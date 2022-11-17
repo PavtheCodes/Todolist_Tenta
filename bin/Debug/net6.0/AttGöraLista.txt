@@ -1,0 +1,12 @@
+To Do List - Allt som är klart markerat med en '$'
+
+$Ny         - skapa en ny uppgift
+$Beskriv    - lista alla Active uppgifter, status, prioritet, namn och beskrivning
+$Lista      - lista alla Active uppgifter, status, prioritet, och namn på uppgiften
+$Lista allt - lista alla uppgifter (oavsett status), status, prioritet, och namn på uppgiften 
+$Spara      - spara uppgifterna
+$Ladda      - ladda listan todo.lis med
+$Aktivera   - /uppgift/ sätt status på uppgift till Active
+$Klar       - /uppgift/ sätt status på uppgift till Ready
+$Vänta      - /uppgift/ sätt status på uppgift till Waiting
+$Sluta      - spara senast laddade filen och avsluta programmet!

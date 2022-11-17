@@ -1,0 +1,15 @@
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.csproj.AssemblyReference.cache
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.AssemblyInfoInputs.cache
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.AssemblyInfo.cs
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.csproj.CoreCompileInputs.cache
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\bin\Debug\net6.0\TodolistTentan.exe
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\bin\Debug\net6.0\TodolistTentan.deps.json
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\bin\Debug\net6.0\TodolistTentan.runtimeconfig.json
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\bin\Debug\net6.0\TodolistTentan.dll
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\bin\Debug\net6.0\TodolistTentan.pdb
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.dll
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\refint\TodolistTentan.dll
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.pdb
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\TodolistTentan.genruntimeconfig.cache
+C:\Users\zek31\source\repos\TodolistTentan\TodolistTentan\obj\Debug\net6.0\ref\TodolistTentan.dll
